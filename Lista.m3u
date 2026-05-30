@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:Checked by CODECS.COM M3U Checker
+
+#EXTINF:-1  tvg-id="Warner" tvg-logo="https://pt.wikipedia.org/wiki/Warner_Bros.#/media/Ficheiro:Warner_Bros._logo_2023.svg" group-title="Filmes",Warner (720p)
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=CwR37iKuBpltFRQ0R7kjPGFwoNQnDCr3
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://pt.wikipedia.org/wiki/HBO_Max#/media/Ficheiro:HBO_Max_(2025).svg" group-title="Filmes",HBO (720p)
+https://cdn-sp2.satlabscloud.com.br/HBO/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
