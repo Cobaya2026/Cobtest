@@ -1,13 +1,13 @@
 #EXTM3U
 #PLAYLIST:Checked by M3U Checker
 
-#EXTINF:-1  tvg-id="Warner" tvg-logo="https://pt.wikipedia.org/wiki/Warner_Bros.#/media/Ficheiro:Warner_Bros._logo_2023.svg" group-title="Filmes",Warner (720p)
+#EXTINF:-1  tvg-id="Warner" tvg-logo="https://logospng.org/wp-content/uploads/warner-bros.png" group-title="Filmes",Warner (720p)
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=CwR37iKuBpltFRQ0R7kjPGFwoNQnDCr3
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://pt.wikipedia.org/wiki/HBO_Max#/media/Ficheiro:HBO_Max_(2025).svg" group-title="Filmes",HBO (720p)
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://logospng.org/wp-content/uploads/hbo.png" group-title="Filmes",HBO (720p)
 https://cdn-sp2.satlabscloud.com.br/HBO/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://en.wikipedia.org/wiki/HBO_Family_(Asian_TV_channel)#/media/File:HBO_Family_Asia_logo.svg" group-title="Filmes",HBO Family (720p)
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://logospng.org/wp-content/uploads/hbo-family.png" group-title="Filmes",HBO Family (720p)
 https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Filmes",CINEMAX (720p)
