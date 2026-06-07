@@ -13,5 +13,11 @@ https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=ul
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Filmes",CINEMAX (720p)
 https://cdn-sp2.satlabscloud.com.br/CINEMAX/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2019/02/ANIMAL-PLANET.jpg" group-title="DOCUMENTÁRIO",ANIMAL PLANET (720p)
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2019/02/ANIMAL-PLANET.jpg" group-title="Documentário",ANIMAL PLANET (720p)
 https://origin-fast.b-cdn.net/ANIMAL_PLANET_NX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://e7.pngegg.com/pngimages/852/748/png-clipart-amc-logo-television-show-graphic-design-amc-television-text.png" group-title="Filmes",AMC (720p)
+https://origin-fast.b-cdn.net/AMC_BRASIL_TK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television.png" group-title="Documentário",Discovery (720p)
+https://origin-fast.b-cdn.net/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.ts.m3u8
