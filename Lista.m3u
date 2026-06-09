@@ -2,34 +2,34 @@
 #PLAYLIST:Checked by M3U Checker
 
 #EXTINF:-1  tvg-id="Warner" tvg-logo="https://logospng.org/wp-content/uploads/warner-bros.png" group-title="Filmes",Warner (720p)
-https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=CwR37iKuBpltFRQ0R7kjPGFwoNQnDCr3
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://logospng.org/wp-content/uploads/hbo.png" group-title="Filmes",HBO (720p)
-https://cdn-sp2.satlabscloud.com.br/HBO/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/HBO/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://logospng.org/wp-content/uploads/hbo-2.png" group-title="Filmes",HBO2 (720p)
-https://cdn-sp2.satlabscloud.com.br/HBO2/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7	
+https://cdn-sp2.satlabscloud.com.br/HBO2/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7	
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://logospng.org/wp-content/uploads/hbo-family.png" group-title="Filmes",HBO Family (720p)
-https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://logospng.org/wp-content/uploads/hbo-max.png" group-title="Filmes",HBO Plus (720p)
-https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://w7.pngwing.com/pngs/168/599/png-transparent-hbo-signature-hd-logo.png" group-title="Filmes",HBO Signature (720p)
-https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://rlnetpoa.com.br/wp-content/uploads/2025/08/images-1-Photoroom-1.png" group-title="Filmes",HBO Xtreme (720p)
-https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Filmes",CINEMAX (720p)
 https://cdn-sp2.satlabscloud.com.br/CINEMAX/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="SONY Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png" group-title="Filmes",SONY Channel (720p)
-https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://static.wixstatic.com/media/ee5d2f_016c00049d434093a348501c12642560~mv2.jpg" group-title="Filmes",SONY Movies (720p)
-https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://e7.pngegg.com/pngimages/852/748/png-clipart-amc-logo-television-show-graphic-design-amc-television-text.png" group-title="Filmes",AMC (720p)
 https://origin-fast.b-cdn.net/AMC_BRASIL_TK/tracks-v1a1/mono.ts.m3u8
