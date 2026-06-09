@@ -16,14 +16,14 @@ https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=ul
 #EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://logospng.org/wp-content/uploads/hbo-max.png" group-title="Filmes",HBO Plus (720p)
 https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-signature-logo-png-transparent.png" group-title="Filmes",HBO Signature (720p)
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://w7.pngwing.com/pngs/168/599/png-transparent-hbo-signature-hd-logo.png" group-title="Filmes",HBO Signature (720p)
 https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://rlnetpoa.com.br/wp-content/uploads/2025/08/images-1-Photoroom-1.png" group-title="Filmes",HBO Xtreme (720p)
 https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Filmes",CINEMAX (720p)
-https://cdn-sp2.satlabscloud.com.br/CINEMAX/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/CINEMAX/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="SONY Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png" group-title="Filmes",SONY Channel (720p)
 https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
