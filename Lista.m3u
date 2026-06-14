@@ -47,12 +47,18 @@ https://origin-fast.b-cdn.net/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.ts.m3u8
 https://origin-fast.b-cdn.net/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2023/08/Adult-Swim.jpg" group-title="Desenhos",AdultSwim (720p)
-https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logospng.org/wp-content/uploads/sbt.png" group-title="Canal Aberto",SBT (720p)
-https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/9b315a80-8df0-44b2-9ea2-42f224a683ac/5.m3u8
+https://dai.google.com/linear/hls/pa/event/gMpC1bOKSi2hTmwjxmVB0A/stream/c48d93b5-1cae-4f6c-8484-c4b2b7c07088:SCL2/variant/1592ded9b1f601e462e371414465f106/bandwidth/6925803.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Canal Aberto",GLOBO (720p)
+https://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 
 # FILMES / VOD
 
 #EXTINF:-1 tvg-name="Cara de um Focinho do outro" tvg-logo="https://www.acomarcanet.com.br/materias/fotos/14408_522.png" group-title="Movies",Cara de um Focinho do outro
 https://prx-1353-ant-23.vmwesa.online/hls2/01/02467/l2s4o11a65l0_n/index-v1-a1.m3u8?t=f00sbDzKvUbKj327yn29JIffEBnTcGCts61v0VMEgjY=&s=1780971407&e=43200&v=&srv=transit-up-1171-e&i=0.4&sp=0&asn=264310
+
+#EXTINF:-1 tvg-name="Devoradores de Estrelas" tvg-logo="https://image.tmdb.org/t/p/w500/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg" group-title="Movies",Devoradores de Estrelas
+https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/10/11277/h6zavl1vh79k_x/index-v1-a1.m3u8?t=F4F9V8rfy32N-FW-HMgDDFbQ_RRhxVRyNSneDUj-XHE&s=1781480335&e=10800&f=56385452&srv=1075&asn=264310&sp=5500&p=0
