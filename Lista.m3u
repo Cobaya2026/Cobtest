@@ -31,17 +31,20 @@ https://cdn-sp2.satlabscloud.com.br/SONY_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL
 #EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://static.wixstatic.com/media/ee5d2f_016c00049d434093a348501c12642560~mv2.jpg" group-title="Filmes",SONY Movies (720p)
 https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Filmes",Space (720p)
+https://cdn-3.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://e7.pngegg.com/pngimages/852/748/png-clipart-amc-logo-television-show-graphic-design-amc-television-text.png" group-title="Filmes",AMC (720p)
-https://origin-fast.b-cdn.net/AMC_BRASIL_TK/tracks-v1a1/mono.ts.m3u8
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://e7.pngegg.com/pngimages/407/445/png-clipart-a-e-networks-television-show-television-channel-others-television-angle.png" group-title="Entreterimento",A&E (720p)
-https://origin-fast.b-cdn.net/AeE_BRASIL_TK/tracks-v1a1/mono.ts.m3u8
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2019/02/ANIMAL-PLANET.jpg" group-title="Documentário",ANIMAL PLANET (720p)
-https://origin-fast.b-cdn.net/ANIMAL_PLANET_NX/tracks-v1a1/mono.ts.m3u8
+https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://e7.pngegg.com/pngimages/335/140/png-clipart-discovery-channel-logo-television-show-discovery-miscellaneous-television.png" group-title="Documentário",Discovery (720p)
-https://origin-fast.b-cdn.net/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.ts.m3u8
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://logospng.org/wp-content/uploads/cartoon-network.png" group-title="Desenhos",Cartoon Network (720p)
 https://origin-fast.b-cdn.net/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8
@@ -50,10 +53,13 @@ https://origin-fast.b-cdn.net/CARTOON_NETWORK_TK/tracks-v2a1/mono.ts.m3u8
 https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logospng.org/wp-content/uploads/sbt.png" group-title="Canal Aberto",SBT (720p)
-https://dai.google.com/linear/hls/pa/event/gMpC1bOKSi2hTmwjxmVB0A/stream/c48d93b5-1cae-4f6c-8484-c4b2b7c07088:SCL2/variant/1592ded9b1f601e462e371414465f106/bandwidth/6925803.m3u8
+https://d1jvs4svzaqp8n.cloudfront.net/channel_720.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Canal Aberto",GLOBO (720p)
 https://s2.micineovs.com/GLOBO/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://www.newslinereport.com/online/foto_485.jpg" group-title="Canal Aberto",BAND (720p)
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.ts.m3u8
 
 # FILMES / VOD
 
